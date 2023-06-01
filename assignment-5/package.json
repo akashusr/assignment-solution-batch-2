@@ -1,0 +1,12 @@
+{
+  "name": "vanila-redux-toolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "shahnewaz",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "node-fetch": "^2.6.7",
+    "redux-logger": "^3.0.6"
+  }
+}
