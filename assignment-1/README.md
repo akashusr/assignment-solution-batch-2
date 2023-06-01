@@ -4,7 +4,7 @@
 
 ## এসাইনমেন্ট এ আপনাকে যা যা করতে হবেঃ
 
-১.১ । Add another Match বাটনে ক্লিক করলে নতুন Match যোগ হবে এবং Inital State হবে 0। প্রতিটি Match এর মধ্যে Delete আইকন, Increment এবং Decrement ইনপুট ফিল্ড এবং Total স্কোর থাকবে। প্রতিটি Match আলাদা আলাদা State management করবে।
+১.১ । Add another Match বাটনে ক্লিক করলে নতুন Match যোগ হবে এবং Inital State হবে 0। প্রতিটি Match এর মধ্যে Delete আইকন, Increment এবং Decrement ইনপুট ফিল্ড এবং Total স্কোর থাকবে। প্রতিটি Match আলাদা আলাদা State management করবে। 
 
 ১.২ । একদম প্রথম বারে initial state হিসেবে একটি Match থাকবে এবং তার initial value হবে 0
 
