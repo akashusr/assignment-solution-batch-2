@@ -10,7 +10,7 @@
 </p>
 
 <!-- description  -->
-# Assignment-Sollution-Batch-2
+# Assignment-Solution-Batch-2
 This is the assignment solution for the Think in a Redux way course. You can locate the solutions for the assignments using the naming convention "assignment-1" and "assignment-2".
 
 
